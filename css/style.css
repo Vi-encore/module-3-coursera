@@ -55,7 +55,7 @@ body {
 }
 
 .f-view {
-    background-image: url(stock-photo-wooden-board-raw-dumplings-color.jpg);
+    background-image: url(/stock-photo-wooden-board-raw-dumplings-color.jpg);
     width: 100vw;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgba(225, 216, 209,.3);
