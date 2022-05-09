@@ -89,7 +89,7 @@ body {
 
 #our-menu {
     display: flex;
-    justify-content: center;
+   
     margin: 3% 0;
     font-family: 'Akshar', sans-serif;
     font-size: 3.5em;
